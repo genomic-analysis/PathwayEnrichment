@@ -2,10 +2,14 @@
 
 ## Install
 * **Requirement**
->Qt 5.11.0
->GNU Scientific Library
->FreeType
->Secure Sockets Layer
+
+Qt 5.11.0
+
+GNU Scientific Library
+
+FreeType
+
+Secure Sockets Layer
 
 
 ## Authors
