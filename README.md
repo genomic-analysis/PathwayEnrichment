@@ -1,4 +1,4 @@
-# Pathway based gene set enrichment analysis
+## Pathway based gene set enrichment analysis (PGSEA)
 
 
 ## Authors
