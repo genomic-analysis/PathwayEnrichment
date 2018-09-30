@@ -2,30 +2,30 @@
 
 ## Requirement
 
-Qt 5.11.0
+[Qt 5.11.0](https://www.qt.io/download)
 
-GNU Scientific Library
+[GNU Scientific Library](https://www.gnu.org/software/gsl/)
 
-FreeType
+[FreeType](https://www.freetype.org/)
 
-Secure Sockets Layer
+Secure Sockets Layer(ssl)
 
 ## Install (Ubuntu 17.10)
-* **Step1 download** *
+* **Step1 download** 
 
-src
+src/
 
 gene_pathway_enrichment.pro
 
-icon
+icon/
 
-* **Step2** *
+* **Step2** 
 
 $qmake CONFIG+=debug_and_release
 
 $make
 
-* **Step3** *
+* **Step3** 
 
 $./gene_pathway_enrichment
 
