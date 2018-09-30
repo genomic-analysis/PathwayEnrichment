@@ -33,9 +33,9 @@ $./gene_pathway_enrichment
 
 ## Author
 
-* **Shutan Xu**  [PGSEA](https://github.com/xushutan/PathwayEnrichment)
+* **Shutan Xu** 
 
-xushutan@uga.edu
+* **xushutan@uga.edu
 
 ## Version
 1.0.0
