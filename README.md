@@ -1,7 +1,6 @@
 ## Pathway based gene set enrichment analysis (PGSEA)
 
-## Install
-* **Requirement**
+## Requirement
 
 Qt 5.11.0
 
@@ -11,10 +10,31 @@ FreeType
 
 Secure Sockets Layer
 
+## Install (Ubuntu 17.10)
+*Step1 download*
+
+src
+
+gene_pathway_enrichment.pro
+
+icon
+
+*Step2*
+
+qmake CONFIG+=debug_and_release
+
+make
+
+*Step3*
+
+./gene_pathway_enrichment
+
+
 
 ## Authors
 
 * **Shutan Xu** - *Initial work* - [PGSEA](https://github.com/xushutan/PathwayEnrichment)
+xushutan@uga.edu
 
 ## Version
 1.0.0
