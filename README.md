@@ -11,7 +11,7 @@ FreeType
 Secure Sockets Layer
 
 ## Install (Ubuntu 17.10)
-*Step1 download*
+* **Step1 download** *
 
 src
 
@@ -19,15 +19,15 @@ gene_pathway_enrichment.pro
 
 icon
 
-*Step2*
+* **Step2** *
 
-qmake CONFIG+=debug_and_release
+$qmake CONFIG+=debug_and_release
 
-make
+$make
 
-*Step3*
+* **Step3** *
 
-./gene_pathway_enrichment
+$./gene_pathway_enrichment
 
 
 
