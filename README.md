@@ -1,5 +1,10 @@
 ## Pathway based gene set enrichment analysis (PGSEA)
 
+## Install
+* **Requirement**
+Qt 5.11.0
+
+
 
 ## Authors
 
