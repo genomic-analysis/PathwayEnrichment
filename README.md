@@ -3,7 +3,7 @@
 
 ## Authors
 
-* **Shutan Xu** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Shutan Xu** - *Initial work* - [PurpleBooth](https://github.com/xushutan/PathwayEnrichment)
 
 ## License
 
