@@ -6,7 +6,7 @@
 * **Shutan Xu** - *Initial work* - [PGSEA](https://github.com/xushutan/PathwayEnrichment)
 
 ## Version
-1.0
+1.0.0
 
 ## License
 
