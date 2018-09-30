@@ -29,13 +29,11 @@ $make
 
 $./gene_pathway_enrichment
 
-
-
 ## Author
 
 * **Shutan Xu** 
 
-* **xushutan@uga.edu
+* xushutan@uga.edu
 
 ## Version
 1.0.0
