@@ -1,4 +1,4 @@
-## Pathway based Gene Set Enrichment Analysis (PGSEA)
+## Pathway based Gene Set Enrichment Analysis (PSEA)
 
 ## Requirement
 
