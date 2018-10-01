@@ -1,0 +1,662 @@
+K00001	E1.1.1.1, adh	alcohol dehydrogenase [EC:
+K00002	AKR1A1	alcohol dehydrogenase (NADP+) [EC:
+K00003	E1.1.1.3	homoserine dehydrogenase [EC:
+K00004	BDH, butB	(R,R)-butanediol dehydrogenase / meso-butanediol dehydrogenase / diacetyl reductase [EC:
+K00005	gldA	glycerol dehydrogenase [EC:
+K00006	GPD1L 	glycerol-3-phosphate dehydrogenase (NAD+) [EC:
+K00007	dalD	D-arabinitol 4-dehydrogenase [EC:
+K00008	SORD	L-iditol 2-dehydrogenase [EC:
+K00009	mtlD	mannitol-1-phosphate 5-dehydrogenase [EC:
+K00010	iolG	myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:
+K00011	AKR1B1 	aldehyde reductase [EC:
+K00012	UGDH	UDPglucose 6-dehydrogenase [EC:
+K00013	hisD	histidinol dehydrogenase [EC:
+K00014	aroE	shikimate dehydrogenase [EC:
+K00015	gyaR	glyoxylate reductase [EC:
+K00016	LDHAL6A 	L-lactate dehydrogenase [EC:
+K00018	hprA	glycerate dehydrogenase [EC:
+K00019	BDH2 	3-hydroxybutyrate dehydrogenase [EC:
+K00020	HIBADH	3-hydroxyisobutyrate dehydrogenase [EC:
+K00021	HMGCR	hydroxymethylglutaryl-CoA reductase (NADPH) [EC:
+K00022	HADH	3-hydroxyacyl-CoA dehydrogenase [EC:
+K00023	phbB	acetoacetyl-CoA reductase [EC:
+K00024	mdh	malate dehydrogenase [EC:
+K00025	MDH1	malate dehydrogenase [EC:
+K00026	MDH2	malate dehydrogenase [EC:
+K00027	ME2	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:
+K00028	E1.1.1.39	malate dehydrogenase (decarboxylating) [EC:
+K00029	ME3 	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:
+K00030	IDH3A 	isocitrate dehydrogenase (NAD+) [EC:
+K00031	IDH1 	isocitrate dehydrogenase [EC:
+K00032	E1.1.1.43	phosphogluconate 2-dehydrogenase [EC:
+K00033	PGD	6-phosphogluconate dehydrogenase [EC:
+K00034	gdh	glucose 1-dehydrogenase [EC:
+K00035	gal	D-galactose 1-dehydrogenase [EC:
+K00036	G6PD	glucose-6-phosphate 1-dehydrogenase [EC:
+K00037	AKR1C4	3alpha-hydroxysteroid 3-dehydrogenase / chlordecone reductase [EC:
+K00038	E1.1.1.53	3alpha(or 20beta)-hydroxysteroid dehydrogenase [EC:
+K00039	rbtD	ribitol 2-dehydrogenase [EC:
+K00040	uxuB	fructuronate reductase [EC:
+K00041	uxaB	tagaturonate reductase [EC:
+K00042	garR, glxR	2-hydroxy-3-oxopropionate reductase [EC:
+K00043	gbd	4-hydroxybutyrate dehydrogenase [EC:
+K00044	HSD17B1	17beta-estradiol 17-dehydrogenase [EC:
+K00045	E1.1.1.67, mtlK	mannitol 2-dehydrogenase [EC:
+K00046	idnO	gluconate 5-dehydrogenase [EC:
+K00048	fucO	lactaldehyde reductase [EC:
+K00049	GRHPR	glyoxylate/hydroxypyruvate reductase [EC:
+K00050	ttuD	hydroxypyruvate reductase [EC:
+K00051	E1.1.1.82	malate dehydrogenase (NADP+) [EC:
+K00052	leuB, IMDH	3-isopropylmalate dehydrogenase [EC:
+K00053	ilvC	ketol-acid reductoisomerase [EC:
+K00054	mvaA	hydroxymethylglutaryl-CoA reductase [EC:
+K00055	E1.1.1.90	aryl-alcohol dehydrogenase [EC:
+K00057	gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:
+K00058	PHGDH	D-3-phosphoglycerate dehydrogenase [EC:
+K00059	fabG	3-oxoacyl-[acyl-carrier protein] reductase [EC:
+K00060	tdh	threonine 3-dehydrogenase [EC:
+K00061	RDH5	11-cis-retinol dehydrogenase [EC:
+K00062	E1.1.1.116	D-arabinose 1-dehydrogenase [EC:
+K00063	ARA1	D-arabinose 1-dehydrogenase [EC:
+K00064	E1.1.1.122	D-threo-aldose 1-dehydrogenase [EC:
+K00065	kduD	2-deoxy-D-gluconate 3-dehydrogenase [EC:
+K00066	algD	GDP-mannose 6-dehydrogenase [EC:
+K00067	rfbD, rmlD	dTDP-4-dehydrorhamnose reductase [EC:
+K00068	srlD	sorbitol-6-phosphate 2-dehydrogenase [EC:
+K00069	HPGD	15-hydroxyprostaglandin dehydrogenase (NAD) [EC:
+K00070	HSD3B1 	3beta-hydroxy-Delta5-steroid dehydrogenase / steroid Delta-isomerase [EC:
+K00071	HSD11B2	corticosteroid 11-beta-dehydrogenase isozyme 2 [EC:1.1.1.-]
+K00072	SPR	sepiapterin reductase [EC:
+K00073	allD	ureidoglycolate dehydrogenase (NAD+) [EC:
+K00074	paaH, hbd, fadB, mmgB	3-hydroxybutyryl-CoA dehydrogenase [EC:
+K00075	murB	UDP-N-acetylmuramate dehydrogenase [EC:
+K00076	hdhA	7-alpha-hydroxysteroid dehydrogenase [EC:
+K00077	panE, apbA	2-dehydropantoate 2-reductase [EC:
+K00078	DHDH	dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:
+K00079	CBR1	carbonyl reductase 1 [EC:
+K00081	CBR2	carbonyl reductase 2 [EC:
+K00082	ribD2	5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:
+K00083	E1.1.1.195	cinnamyl-alcohol dehydrogenase [EC:
+K00084	CBR3	carbonyl reductase 3 [EC:
+K00085	E1.1.1.200	aldose-6-phosphate reductase (NADPH2) [EC:
+K00086	dhaT	1,3-propanediol dehydrogenase [EC:
+K00087	ygeS, xdhA	xanthine dehydrogenase molybdenum-binding subunit [EC:
+K00088	IMPDH1 	IMP dehydrogenase [EC:
+K00089	AKR1C2	3alpha-hydroxysteroid 3-dehydrogenase [EC:
+K00090	E1.1.1.215	gluconate 2-dehydrogenase [EC:
+K00091	E1.1.1.219	dihydroflavonol-4-reductase [EC:
+K00093	mdh	methanol dehydrogenase [EC:
+K00094	E1.1.1.251, gatD	galactitol-1-phosphate 5-dehydrogenase [EC:
+K00095	MTD	mannitol dehydrogenase [EC:
+K00096	araM, egsA	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:
+K00097	pdxA	4-hydroxythreonine-4-phosphate dehydrogenase [EC:
+K00098	idnD	L-idonate 5-dehydrogenase [EC:
+K00099	dxr	1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:
+K00100	bdhAB	butanol dehydrogenase [EC:1.1.1.-]
+K00101	E1.1.2.3, lldD	L-lactate dehydrogenase (cytochrome) [EC:
+K00102	LDHD	D-lactate dehydrogenase (cytochrome) [EC:
+K00103	GULO	L-gulonolactone oxidase [EC:
+K00104	glcD	glycolate oxidase [EC:
+K00105	E1.1.3.21	alpha-glycerophosphate oxidase [EC:
+K00106	XDH	xanthine dehydrogenase/oxidase [EC:
+K00107	ALO	D-arabinono-1,4-lactone oxidase [EC:
+K00108	CHDH	choline dehydrogenase [EC:
+K00109	L2HGDH	2-hydroxyglutarate dehydrogenase [EC:
+K00111	GPD2	glycerol-3-phosphate dehydrogenase [EC:
+K00112	glpB	glycerol-3-phosphate dehydrogenase subunit B [EC:
+K00113	glpC	glycerol-3-phosphate dehydrogenase subunit C [EC:
+K00114	exaA	alcohol dehydrogenase (cytochrome c) [EC:
+K00115	GLD	glucose 1-dehydrogenase (FAD, quinone) [EC:
+K00116	mqo	malate dehydrogenase (quinone) [EC:
+K00117	gcd	quinoprotein glucose dehydrogenase [EC:
+K00118	gfo	glucose-fructose oxidoreductase [EC:
+K00121	ADH5	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:
+K00122	FDH	formate dehydrogenase [EC:
+K00123	fdoG, fdfH	formate dehydrogenase major subunit [EC:
+K00124	fdoH	formate dehydrogenase iron-sulfur subunit
+K00125	E1.2.1.2B2	formate dehydrogenase, beta subunit [EC:
+K00126	fdsD	formate dehydrogenase subunit delta [EC:
+K00127	fdoI	formate dehydrogenase subunit gamma
+K00128	ALDH2 	aldehyde dehydrogenase (NAD+) [EC:
+K00129	ALDH3A1 	aldehyde dehydrogenase (NAD(P)+) [EC:
+K00130	betB, gbsA	betaine-aldehyde dehydrogenase [EC:
+K00131	gapN	glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:
+K00132	E1.2.1.10	acetaldehyde dehydrogenase (acetylating) [EC:
+K00133	asd	aspartate-semialdehyde dehydrogenase [EC:
+K00134	GAPDH	glyceraldehyde 3-phosphate dehydrogenase [EC:
+K00135	gabD	succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:
+K00137	prr	aminobutyraldehyde dehydrogenase [EC:
+K00138	aldB	aldehyde dehydrogenase [EC:1.2.1.-]
+K00139	ALDH5A1	succinate-semialdehyde dehydrogenase [EC:
+K00140	ALDH6A1	malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:
+K00141	xylC	benzaldehyde dehydrogenase (NAD) [EC:
+K00142	AASDH	acyl-CoA synthetase [EC:6.2.1.-]
+K00143	LYS2	L-aminoadipate-semialdehyde dehydrogenase [EC:
+K00145	argC	N-acetyl-gamma-glutamyl-phosphate reductase [EC:
+K00146	feaB	phenylacetaldehyde dehydrogenase [EC:
+K00147	proA	glutamate-5-semialdehyde dehydrogenase [EC:
+K00148	fdhA	glutathione-independent formaldehyde dehydrogenase [EC:
+K00149	ALDH9A1	aldehyde dehydrogenase family 9 member A1 [EC:
+K00150	gap2	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:
+K00151	hpaE, hpcC	5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase [EC:
+K00152	nahF	salicylaldehyde dehydrogenase [EC:
+K00153	E1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase [EC:
+K00154	E1.2.1.68	coniferyl-aldehyde dehydrogenase [EC:
+K00156	poxB	pyruvate dehydrogenase (quinone) [EC:
+K00157	AOX1	aldehyde oxidase [EC:
+K00158	E1.2.3.3, poxL	pyruvate oxidase [EC:
+K00161	PDHA1 	pyruvate dehydrogenase E1 component alpha subunit [EC:
+K00162	PDHB	pyruvate dehydrogenase E1 component beta subunit [EC:
+K00163	aceE	pyruvate dehydrogenase E1 component [EC:
+K00164	OGDH 	2-oxoglutarate dehydrogenase E1 component [EC:
+K00166	BCKDHA	2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:
+K00167	BCKDHB	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:
+K00169	porA	pyruvate ferredoxin oxidoreductase alpha subunit [EC:
+K00170	porB	pyruvate ferredoxin oxidoreductase beta subunit [EC:
+K00171	porD	pyruvate ferredoxin oxidoreductase delta subunit [EC:
+K00172	porG	pyruvate ferredoxin oxidoreductase gamma subunit [EC:
+K00174	korA, oorA, oforA	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:
+K00175	korB, oorB, oforB	2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit beta [EC:
+K00176	korD, oorD	2-oxoglutarate ferredoxin oxidoreductase subunit delta [EC:
+K00177	korC, oorC	2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:
+K00179	iorA	indolepyruvate ferredoxin oxidoreductase, alpha subunit [EC:
+K00180	iorB	indolepyruvate ferredoxin oxidoreductase, beta subunit [EC:
+K00181	PORCN	O-palmitoleoyl transferase [EC:
+K00182	WNT2 	wingless-type MMTV integration site family, member 2
+K00183	K00183	prokaryotic molybdopterin-containing oxidoreductase family, molybdopterin binding subunit
+K00184	K00184	prokaryotic molybdopterin-containing oxidoreductase family, iron-sulfur binding subunit
+K00185	K00185	prokaryotic molybdopterin-containing oxidoreductase family, membrane subunit
+K00186	vorA	2-oxoisovalerate ferredoxin oxidoreductase, alpha subunit [EC:
+K00187	vorB	2-oxoisovalerate ferredoxin oxidoreductase, beta subunit [EC:
+K00188	vorD	2-oxoisovalerate ferredoxin oxidoreductase, delta subunit [EC:
+K00189	vorG	2-oxoisovalerate ferredoxin oxidoreductase, gamma subunit [EC:
+K00192	cdhA	acetyl-CoA decarbonylase/synthase complex subunit alpha [EC:
+K00193	cdhC	acetyl-CoA decarbonylase/synthase complex subunit beta [EC:2.3.1.-]
+K00194	cdhD, acsD	acetyl-CoA decarbonylase/synthase complex subunit delta [EC:
+K00195	cdhB	acetyl-CoA decarbonylase/synthase complex subunit epsilon
+K00196	cooF	carbon-monoxide dehydrogenase iron sulfur subunit
+K00197	cdhE, acsC	acetyl-CoA decarbonylase/synthase complex subunit gamma [EC:
+K00198	cooS, acsA	carbon-monoxide dehydrogenase catalytic subunit [EC:
+K00200	fwdA, fmdA	formylmethanofuran dehydrogenase subunit A [EC:
+K00201	fwdB, fmdB	formylmethanofuran dehydrogenase subunit B [EC:
+K00202	fwdC, fmdC	formylmethanofuran dehydrogenase subunit C [EC:
+K00203	fwdD, fmdD	formylmethanofuran dehydrogenase subunit D [EC:
+K00204	fwdH	4Fe-4S ferredoxin
+K00205	fwdF, fmdF	4Fe-4S ferredoxin
+K00207	DPYD	dihydropyrimidine dehydrogenase (NADP+) [EC:
+K00208	fabI	enoyl-[acyl-carrier protein] reductase I [EC:
+K00209	fabV, ter	enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:
+K00210	E1.3.1.12	prephenate dehydrogenase [EC:
+K00211	TYR1	prephenate dehydrogenase (NADP+) [EC:
+K00212	AKR1C1	20alpha/3alpha-hydroxysteroid dehydrogenase / dihydrodiol dehydrogenase [EC:
+K00213	DHCR7	7-dehydrocholesterol reductase [EC:
+K00214	BLVRA	biliverdin reductase [EC:
+K00215	dapB	4-hydroxy-tetrahydrodipicolinate reductase [EC:
+K00216	entA	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [EC:
+K00217	E1.3.1.32	maleylacetate reductase [EC:
+K00218	por	protochlorophyllide reductase [EC:
+K00219	fadH	2,4-dienoyl-CoA reductase (NADPH2) [EC:
+K00220	tyrC	cyclohexadieny/prephenate dehydrogenase [EC:
+K00221	E4.99.1.2	alkylmercury lyase [EC:
+K00222	TM7SF2	Delta14-sterol reductase [EC:
+K00223	ERG4	Delta24(24(1))-sterol reductase [EC:
+K00225	GLDH	L-galactono-1,4-lactone dehydrogenase [EC:
+K00226	pyrD	dihydroorotate dehydrogenase (fumarate) [EC:
+K00227	SC5D	Delta7-sterol 5-desaturase [EC:
+K00228	CPOX	coproporphyrinogen III oxidase [EC:
+K00230	hemG	menaquinone-dependent protoporphyrinogen oxidase [EC:
+K00231	PPOX	protoporphyrinogen/coproporphyrinogen III oxidase [EC:
+K00232	ACOX1 	acyl-CoA oxidase [EC:
+K00234	SDHA	succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:
+K00235	SDHB	succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:
+K00236	SDHC	succinate dehydrogenase (ubiquinone) cytochrome b560 subunit
+K00237	SDHD	succinate dehydrogenase (ubiquinone) membrane anchor subunit
+K00239	sdhA, frdA	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:
+K00240	sdhB, frdB	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:
+K00241	sdhC, frdC	succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+K00242	sdhD, frdD	succinate dehydrogenase / fumarate reductase, membrane anchor subunit
+K00243	K00243	uncharacterized protein
+K00244	frdA	fumarate reductase flavoprotein subunit [EC:
+K00245	frdB	fumarate reductase iron-sulfur subunit [EC:
+K00246	frdC	fumarate reductase subunit C
+K00247	frdD	fumarate reductase subunit D
+K00248	ACADS	butyryl-CoA dehydrogenase [EC:
+K00249	ACADM	acyl-CoA dehydrogenase [EC:
+K00251	AKR1D1	3-oxo-5-beta-steroid 4-dehydrogenase [EC:
+K00252	GCDH	glutaryl-CoA dehydrogenase [EC:
+K00253	IVD	isovaleryl-CoA dehydrogenase [EC:
+K00254	DHODH	dihydroorotate dehydrogenase [EC:
+K00255	ACADL	long-chain-acyl-CoA dehydrogenase [EC:
+K00256	E1.3.99.16	isoquinoline 1-oxidoreductase [EC:
+K00257	E1.3.99.-	NA
+K00259	ald	alanine dehydrogenase [EC:
+K00260	gudB, rocG	glutamate dehydrogenase [EC:
+K00261	GLUD1 	glutamate dehydrogenase (NAD(P)+) [EC:
+K00262	E1.4.1.4, gdhA	glutamate dehydrogenase (NADP+) [EC:
+K00263	E1.4.1.9	leucine dehydrogenase [EC:
+K00264	GLT1	glutamate synthase (NADPH/NADH) [EC:
+K00265	gltB	glutamate synthase (NADPH/NADH) large chain [EC:
+K00266	gltD	glutamate synthase (NADPH/NADH) small chain [EC:
+K00270	pdh	phenylalanine dehydrogenase [EC:
+K00271	vdh	valine dehydrogenase (NAD+) [EC:
+K00272	DDO	D-aspartate oxidase [EC:
+K00273	DAO	D-amino-acid oxidase [EC:
+K00274	MAOA 	monoamine oxidase [EC:
+K00275	PNPO	pyridoxamine 5'-phosphate oxidase [EC:
+K00276	AOC2 	primary-amine oxidase [EC:
+K00277	LOX	protein-lysine 6-oxidase [EC:
+K00278	nadB	L-aspartate oxidase [EC:
+K00279	CKX	cytokinin dehydrogenase [EC:
+K00280	LOXL2 	lysyl oxidase-like protein 2/3/4 [EC:1.4.3.-]
+K00281	GLDC	glycine dehydrogenase [EC:
+K00282	gcvPA	glycine dehydrogenase subunit 1 [EC:
+K00283	gcvPB	glycine dehydrogenase subunit 2 [EC:
+K00284	E1.4.7.1	glutamate synthase (ferredoxin) [EC:
+K00285	dadA	D-amino-acid dehydrogenase [EC:
+K00286	PYCR2 	pyrroline-5-carboxylate reductase [EC:
+K00287	DHFR 	dihydrofolate reductase [EC:
+K00288	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase / formyltetrahydrofolate synthetase [EC:
+K00289	ALDH1L1 	formyltetrahydrofolate dehydrogenase [EC:
+K00290	LYS1	saccharopine dehydrogenase (NAD+, L-lysine forming) [EC:
+K00293	LYS9	saccharopine dehydrogenase (NADP+, L-glutamate forming) [EC:
+K00294	ALDH4A1	1-pyrroline-5-carboxylate dehydrogenase [EC:
+K00295	MTD1	methylenetetrahydrofolate dehydrogenase (NAD+) [EC:
+K00296	E1.5.1.19	D-nopaline dehydrogenase [EC:
+K00297	MTHFR	methylenetetrahydrofolate reductase (NADPH) [EC:
+K00298	ceo	N5-(carboxyethyl)ornithine synthase [EC:
+K00299	ssuE	FMN reductase [EC:
+K00301	E1.5.3.1	sarcosine oxidase [EC:
+K00302	soxA	sarcosine oxidase, subunit alpha [EC:
+K00303	soxB	sarcosine oxidase, subunit beta [EC:
+K00304	soxD	sarcosine oxidase, subunit delta [EC:
+K00305	soxG	sarcosine oxidase, subunit gamma [EC:
+K00306	PIPOX	sarcosine oxidase / L-pipecolate oxidase [EC:
+K00307	BBE1	reticuline oxidase [EC:
+K00308	PAOX	N1-acetylpolyamine oxidase [EC:
+K00310	SE	pyrimidodiazepine synthase [EC:
+K00311	ETFDH	electron-transferring-flavoprotein dehydrogenase [EC:
+K00312	WNT3 	wingless-type MMTV integration site family, member 3
+K00313	fixC	electron transfer flavoprotein-quinone oxidoreductase [EC:1.5.5.-]
+K00314	SARDH	sarcosine dehydrogenase [EC:
+K00315	DMGDH	dimethylglycine dehydrogenase [EC:
+K00316	spdH	spermidine dehydrogenase [EC:
+K00317	dmd-tmd	dimethylamine/trimethylamine dehydrogenase [EC:
+K00318	 	proline dehydrogenase [EC:1.5.-.-]
+K00319	mtd	methylenetetrahydromethanopterin dehydrogenase [EC:
+K00320	mer	5,10-methylenetetrahydromethanopterin reductase [EC:
+K00322	sthA, udhA	NAD(P) transhydrogenase [EC:
+K00323	NNT	NAD(P) transhydrogenase [EC:
+K00324	pntA	NAD(P) transhydrogenase subunit alpha [EC:
+K00325	pntB	NAD(P) transhydrogenase subunit beta [EC:
+K00326	CYB5R3 	cytochrome-b5 reductase [EC:
+K00327	POR	NADPH-ferrihemoprotein reductase [EC:
+K00329	E1.6.5.3	NADH dehydrogenase [EC:
+K00330	nuoA	NADH-quinone oxidoreductase subunit A [EC:
+K00331	nuoB	NADH-quinone oxidoreductase subunit B [EC:
+K00332	nuoC	NADH-quinone oxidoreductase subunit C [EC:
+K00333	nuoD	NADH-quinone oxidoreductase subunit D [EC:
+K00334	nuoE	NADH-quinone oxidoreductase subunit E [EC:
+K00335	nuoF	NADH-quinone oxidoreductase subunit F [EC:
+K00336	nuoG	NADH-quinone oxidoreductase subunit G [EC:
+K00337	nuoH	NADH-quinone oxidoreductase subunit H [EC:
+K00338	nuoI	NADH-quinone oxidoreductase subunit I [EC:
+K00339	nuoJ	NADH-quinone oxidoreductase subunit J [EC:
+K00340	nuoK	NADH-quinone oxidoreductase subunit K [EC:
+K00341	nuoL	NADH-quinone oxidoreductase subunit L [EC:
+K00342	nuoM	NADH-quinone oxidoreductase subunit M [EC:
+K00343	nuoN	NADH-quinone oxidoreductase subunit N [EC:
+K00344	CRYZ	NADPH2:quinone reductase [EC:
+K00346	nqrA	Na+-transporting NADH:ubiquinone oxidoreductase subunit A [EC:
+K00347	nqrB	Na+-transporting NADH:ubiquinone oxidoreductase subunit B [EC:
+K00348	nqrC	Na+-transporting NADH:ubiquinone oxidoreductase subunit C [EC:
+K00349	nqrD	Na+-transporting NADH:ubiquinone oxidoreductase subunit D [EC:
+K00350	nqrE	Na+-transporting NADH:ubiquinone oxidoreductase subunit E [EC:
+K00351	nqrF	Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:
+K00354	E1.6.99.1	NADPH2 dehydrogenase [EC:
+K00355	NQO1	NAD(P)H dehydrogenase (quinone) [EC:
+K00356	E1.6.99.3	NADH dehydrogenase [EC:
+K00357	QDPR	dihydropteridine reductase [EC:
+K00360	nasB	assimilatory nitrate reductase electron transfer subunit [EC:
+K00362	nirB	nitrite reductase (NADH) large subunit [EC:
+K00363	nirD	nitrite reductase (NADH) small subunit [EC:
+K00364	GMPR 	GMP reductase [EC:
+K00365	uaZ	urate oxidase [EC:
+K00366	nirA	ferredoxin-nitrite reductase [EC:
+K00367	narB	ferredoxin-nitrate reductase [EC:
+K00368	nirK	nitrite reductase (NO-forming) [EC:
+K00370	narG, narZ, nxrA	nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:
+K00371	narH, narY, nxrB	nitrate reductase / nitrite oxidoreductase, beta subunit [EC:
+K00372	nasA	assimilatory nitrate reductase catalytic subunit [EC:
+K00373	narJ, narW	nitrate reductase molybdenum cofactor assembly chaperone NarJ/NarW
+K00374	narI, narV	nitrate reductase gamma subunit [EC:
+K00375	K00375	GntR family transcriptional regulator / MocR family aminotransferase
+K00376	nosZ	nitrous-oxide reductase [EC:
+K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:
+K00381	cysI	sulfite reductase (NADPH) hemoprotein beta-component [EC:
+K00382	DLD	dihydrolipoamide dehydrogenase [EC:
+K00383	GSR	glutathione reductase (NADPH) [EC:
+K00384	TXNRD2 	thioredoxin reductase (NADPH) [EC:
+K00385	asrC	anaerobic sulfite reductase subunit C
+K00387	SUOX	sulfite oxidase [EC:
+K00389	yidH	putative membrane protein
+K00390	cysH	phosphoadenosine phosphosulfate reductase [EC:
+K00392	sir	sulfite reductase (ferredoxin) [EC:
+K00394	aprA	adenylylsulfate reductase, subunit A [EC:
+K00395	aprB	adenylylsulfate reductase, subunit B [EC:
+K00399	mcrA	methyl-coenzyme M reductase alpha subunit [EC:
+K00400	K00400	methyl coenzyme M reductase system, component A2
+K00401	mcrB	methyl-coenzyme M reductase beta subunit [EC:
+K00402	mcrG	methyl-coenzyme M reductase gamma subunit [EC:
+K00404	ccoN	cytochrome c oxidase cbb3-type subunit I [EC:
+K00405	ccoO	cytochrome c oxidase cbb3-type subunit II
+K00406	ccoP	cytochrome c oxidase cbb3-type subunit III
+K00407	ccoQ	cytochrome c oxidase cbb3-type subunit IV
+K00408	WNT4	wingless-type MMTV integration site family, member 4
+K00410	fbcH	ubiquinol-cytochrome c reductase cytochrome b/c1 subunit
+K00411	UQCRFS1	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:
+K00412	CYTB	ubiquinol-cytochrome c reductase cytochrome b subunit
+K00413	CYC1	ubiquinol-cytochrome c reductase cytochrome c1 subunit
+K00414	UQCRC1	ubiquinol-cytochrome c reductase core subunit 1
+K00415	UQCRC2	ubiquinol-cytochrome c reductase core subunit 2
+K00416	UQCRHL 	ubiquinol-cytochrome c reductase subunit 6
+K00417	UQCRB	ubiquinol-cytochrome c reductase subunit 7
+K00418	UQCRQ	ubiquinol-cytochrome c reductase subunit 8
+K00419	UQCR10	ubiquinol-cytochrome c reductase subunit 9
+K00420	UQCR11	ubiquinol-cytochrome c reductase subunit 10
+K00422	E1.10.3.1	polyphenol oxidase [EC:
+K00423	E1.10.3.3	L-ascorbate oxidase [EC:
+K00425	cydA	cytochrome d ubiquinol oxidase subunit I [EC:
+K00426	cydB	cytochrome d ubiquinol oxidase subunit II [EC:
+K00427	lldP, lctP	L-lactate permease
+K00428	E1.11.1.5	cytochrome c peroxidase [EC:
+K00430	E1.11.1.7	peroxidase [EC:
+K00431	TPO	thyroid peroxidase [EC:
+K00432	GPX6 	glutathione peroxidase [EC:
+K00433	cpo	non-heme chloroperoxidase [EC:
+K00434	E1.11.1.11	L-ascorbate peroxidase [EC:
+K00435	hemQ	Fe-coproporphyrin III decarboxylase [EC:1.11.1.-]
+K00436	hoxH	NAD-reducing hydrogenase large subunit [EC:
+K00437	hydB	[NiFe] hydrogenase large subunit [EC:
+K00440	frhA	coenzyme F420 hydrogenase subunit alpha [EC:
+K00441	frhB	coenzyme F420 hydrogenase subunit beta [EC:
+K00442	frhD	coenzyme F420 hydrogenase subunit delta
+K00443	frhG	coenzyme F420 hydrogenase subunit gamma [EC:
+K00444	WNT5A 	wingless-type MMTV integration site family, member 5
+K00445	WNT6	wingless-type MMTV integration site family, member 6
+K00446	dmpB, xylE	catechol 2,3-dioxygenase [EC:
+K00448	pcaG	protocatechuate 3,4-dioxygenase, alpha subunit [EC:
+K00449	pcaH	protocatechuate 3,4-dioxygenase, beta subunit [EC:
+K00450	E1.13.11.4	gentisate 1,2-dioxygenase [EC:
+K00451	HGD	homogentisate 1,2-dioxygenase [EC:
+K00452	HAAO	3-hydroxyanthranilate 3,4-dioxygenase [EC:
+K00453	TDO2	tryptophan 2,3-dioxygenase [EC:
+K00454	LOX2S	lipoxygenase [EC:
+K00455	hpaD, hpcB	3,4-dihydroxyphenylacetate 2,3-dioxygenase [EC:
+K00456	CDO1	cysteine dioxygenase [EC:
+K00457	HPD	4-hydroxyphenylpyruvate dioxygenase [EC:
+K00458	ALOX12	arachidonate 12-lipoxygenase [EC:
+K00459	ncd2, npd	nitronate monooxygenase [EC:
+K00460	ALOX15	arachidonate 15-lipoxygenase [EC:
+K00461	ALOX5	arachidonate 5-lipoxygenase [EC:
+K00462	bphC	biphenyl-2,3-diol 1,2-dioxygenase [EC:
+K00463	IDO2 	indoleamine 2,3-dioxygenase [EC:
+K00464	diox1	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase [EC:
+K00466	E1.13.12.3	tryptophan 2-monooxygenase [EC:
+K00467	E1.13.12.4	lactate 2-monooxygenase [EC:
+K00469	MIOX	inositol oxygenase [EC:
+K00471	BBOX1	gamma-butyrobetaine dioxygenase [EC:
+K00472	P4HA3 	prolyl 4-hydroxylase [EC:
+K00473	PLOD1	procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [EC:
+K00474	TMLHE	trimethyllysine dioxygenase [EC:
+K00475	E1.14.11.9	naringenin 3-dioxygenase [EC:
+K00476	ASPH	aspartate beta-hydroxylase [EC:
+K00477	PHYH	phytanoyl-CoA hydroxylase [EC:
+K00478	HR	lysine-specific demethylase hairless [EC:1.14.11.-]
+K00479	K00479	Rieske 2Fe-2S family protein
+K00480	E1.14.13.1	salicylate hydroxylase [EC:
+K00481	pobA	p-hydroxybenzoate 3-monooxygenase [EC:
+K00483	hpaB	4-hydroxyphenylacetate 3-monooxygenase [EC:
+K00484	hpaC	flavin reductase (NADH) [EC:
+K00485	FMO1 	dimethylaniline monooxygenase (N-oxide forming) [EC:
+K00486	KMO	kynurenine 3-monooxygenase [EC:
+K00487	CYP73A	trans-cinnamate 4-monooxygenase [EC:
+K00488	CYP27A1	cholestanetriol 26-monooxygenase [EC:
+K00489	CYP7A1	cholesterol 7alpha-monooxygenase [EC:
+K00490	CYP4F	cytochrome P450 family 4 subfamily F [EC:
+K00491	nos	nitric-oxide synthase, bacterial [EC:
+K00493	E1.14.14.1	unspecific monooxygenase [EC:
+K00494	luxA	alkanal monooxygenase alpha chain [EC:
+K00496	alkB1_2	alkane 1-monooxygenase [EC:
+K00497	CYP11B1	steroid 11beta-monooxygenase [EC:
+K00498	CYP11A1	cholesterol monooxygenase (side-chain-cleaving) [EC:
+K00499	CMO	choline monooxygenase [EC:
+K00500	PAH	phenylalanine-4-hydroxylase [EC:
+K00501	TH	tyrosine 3-monooxygenase [EC:
+K00502	TPH2 	tryptophan 5-monooxygenase [EC:
+K00503	DBH	dopamine beta-monooxygenase [EC:
+K00504	PAM	peptidylglycine monooxygenase [EC:
+K00505	TYR	tyrosinase [EC:
+K00506	TYRP1	tyrosinase-related protein 1 [EC:1.14.18.-]
+K00507	SCD 	stearoyl-CoA desaturase (Delta-9 desaturase) [EC:
+K00508	E1.14.19.3	linoleoyl-CoA desaturase [EC:
+K00509	PTGS1	prostaglandin-endoperoxide synthase 1 [EC:
+K00510	HMOX1	heme oxygenase 1 [EC:
+K00511	SQLE	squalene monooxygenase [EC:
+K00512	CYP17A1	steroid 17alpha-monooxygenase / 17alpha-hydroxyprogesterone deacetylase [EC:
+K00513	CYP21A2	steroid 21-monooxygenase [EC:
+K00514	ZDS, crtQ	zeta-carotene desaturase [EC:
+K00515	BCO1	beta-carotene 15,15'-dioxygenase [EC:
+K00517	E1.14.-.-	NA
+K00518	sodN	nickel superoxide dismutase [EC:
+K00520	merA	mercuric reductase [EC:
+K00521	E1.16.1.7	ferric-chelate reductase [EC:
+K00522	FTH1	ferritin heavy chain [EC:
+K00523	ascD, ddhD, rfbI	CDP-4-dehydro-6-deoxyglucose reductase, E3 [EC:
+K00524	nrdJ	ribonucleotide reductase, class II [EC:
+K00525	E1.17.4.1A, nrdA, nrdE	ribonucleoside-diphosphate reductase alpha chain [EC:
+K00526	E1.17.4.1B, nrdB, nrdF	ribonucleoside-diphosphate reductase beta chain [EC:
+K00527	nrdD	ribonucleoside-triphosphate reductase [EC:
+K00528	fpr	ferredoxin/flavodoxin---NADP+ reductase [EC:
+K00529	hcaD	3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component [EC:
+K00531	anfG	nitrogenase delta subunit [EC:
+K00532	E1.12.7.2	ferredoxin hydrogenase [EC:
+K00533	E1.12.7.2L	ferredoxin hydrogenase large subunit [EC:
+K00534	E1.12.7.2S	ferredoxin hydrogenase small subunit [EC:
+K00537	ARSC1, arsC	arsenate reductase [EC:
+K00541	NNMT	nicotinamide N-methyltransferase [EC:
+K00542	GAMT	guanidinoacetate N-methyltransferase [EC:
+K00543	ASMT	acetylserotonin N-methyltransferase [EC:
+K00544	BHMT	betaine-homocysteine S-methyltransferase [EC:
+K00545	COMT	catechol O-methyltransferase [EC:
+K00546	HNMT	histamine N-methyltransferase [EC:
+K00547	BHMT2	homocysteine S-methyltransferase [EC:
+K00548	MTR	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:
+K00549	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:
+K00550	OPI3	methylene-fatty-acyl-phospholipid synthase [EC:
+K00551	PEMT	phosphatidylethanolamine N-methyltransferase [EC:
+K00552	GNMT	glycine N-methyltransferase [EC:
+K00553	PNMT	phenylethanolamine N-methyltransferase [EC:
+K00554	trmD	tRNA (guanine37-N1)-methyltransferase [EC:
+K00555	TRMT1	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:
+K00556	trmH	tRNA (guanosine-2'-O-)-methyltransferase [EC:
+K00557	trmA	tRNA (uracil-5-)-methyltransferase [EC:
+K00558	DNMT1	DNA (cytosine-5)-methyltransferase 1 [EC:
+K00559	E2.1.1.41, SMT1, ERG6	sterol 24-C-methyltransferase [EC:
+K00560	TYMS	thymidylate synthase [EC:
+K00561	ermC, ermA	23S rRNA (adenine-N6)-dimethyltransferase [EC:
+K00562	INMT	methyltransferase [EC:
+K00563	rlmA1	23S rRNA (guanine745-N1)-methyltransferase [EC:
+K00564	rsmC	16S rRNA (guanine1207-N2)-methyltransferase [EC:
+K00565	RNMT	mRNA (guanine-N7-)-methyltransferase [EC:
+K00566	mnmA, trmU	tRNA-uridine 2-sulfurtransferase [EC:
+K00567	MGMT	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:
+K00568	ubiG	2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:
+K00569	TPMT	thiopurine S-methyltransferase [EC:
+K00570	pmtA	phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:
+K00571	E2.1.1.72	site-specific DNA-methyltransferase (adenine-specific) [EC:
+K00572	WNT7A 	wingless-type MMTV integration site family, member 7
+K00573	PCMT1	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:
+K00574	cfa	cyclopropane-fatty-acyl-phospholipid synthase [EC:
+K00575	cheR	chemotaxis protein methyltransferase CheR [EC:
+K00577	mtrA	tetrahydromethanopterin S-methyltransferase subunit A [EC:
+K00578	mtrB	tetrahydromethanopterin S-methyltransferase subunit B [EC:
+K00579	mtrC	tetrahydromethanopterin S-methyltransferase subunit C [EC:
+K00580	mtrD	tetrahydromethanopterin S-methyltransferase subunit D [EC:
+K00581	mtrE	tetrahydromethanopterin S-methyltransferase subunit E [EC:
+K00582	mtrF	tetrahydromethanopterin S-methyltransferase subunit F [EC:
+K00583	mtrG	tetrahydromethanopterin S-methyltransferase subunit G [EC:
+K00584	mtrH	tetrahydromethanopterin S-methyltransferase subunit H [EC:
+K00586	DPH5	diphthine methyl ester synthase [EC:
+K00587	ICMT	protein-S-isoprenylcysteine O-methyltransferase [EC:
+K00588	E2.1.1.104	caffeoyl-CoA O-methyltransferase [EC:
+K00589	MET1	uroporphyrin-III C-methyltransferase [EC:
+K00590	E2.1.1.113	site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:
+K00591	COQ3	polyprenyldihydroxybenzoate methyltransferase / 3-demethylubiquinol 3-O-methyltransferase [EC:
+K00592	RBCMT	[ribulose-bisphosphate carboxylase]/[fructose-bisphosphate aldolase]-lysine N-methyltransferase [EC:
+K00594	xyoA	xylitol oxidase [EC:
+K00595	cobL	precorrin-6Y C5,15-methyltransferase (decarboxylating) [EC:
+K00596	E4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate) [EC:
+K00597	MTRR	methionine synthase reductase [EC:
+K00598	tam	trans-aconitate 2-methyltransferase [EC:
+K00599	METTL6	methyltransferase-like protein 6 [EC:2.1.1.-]
+K00600	SHMT1 	glycine hydroxymethyltransferase [EC:
+K00601	E2.1.2.2	phosphoribosylglycinamide formyltransferase [EC:
+K00602	ATIC	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:
+K00603	fctD	glutamate formiminotransferase [EC:
+K00604	MTFMT	methionyl-tRNA formyltransferase [EC:
+K00605	AMT	aminomethyltransferase [EC:
+K00606	panB	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:
+K00608	pyrBI	aspartate carbamoyltransferase [EC:
+K00609	pyrB, PYR2	aspartate carbamoyltransferase catalytic subunit [EC:
+K00610	pyrI	aspartate carbamoyltransferase regulatory subunit
+K00611	OTC	ornithine carbamoyltransferase [EC:
+K00612	E2.1.3.-	carbamoyltransferase [EC:2.1.3.-]
+K00613	GATM	glycine amidinotransferase [EC:
+K00615	TKT 	transketolase [EC:
+K00616	TALDO1	transaldolase [EC:
+K00618	E2.3.1.1	amino-acid N-acetyltransferase [EC:
+K00619	argA	amino-acid N-acetyltransferase [EC:
+K00620	argJ	glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:
+K00621	GNPNAT1	glucosamine-phosphate N-acetyltransferase [EC:
+K00622	NAT2 	arylamine N-acetyltransferase [EC:
+K00623	CHAT	choline O-acetyltransferase [EC:
+K00624	CRAT	carnitine O-acetyltransferase [EC:
+K00625	E2.3.1.8, pta	phosphate acetyltransferase [EC:
+K00626	ACAT1 	acetyl-CoA C-acetyltransferase [EC:
+K00627	DLAT	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:
+K00628	GLYAT	glycine N-acyltransferase / glycine N-benzoyltransferase [EC:
+K00629	GPAT2 	glycerol-3-phosphate O-acyltransferase 1/2 [EC:
+K00630	ATS1	glycerol-3-phosphate O-acyltransferase [EC:
+K00631	plsB	glycerol-3-phosphate O-acyltransferase [EC:
+K00632	fadA, fadI	acetyl-CoA acyltransferase [EC:
+K00633	lacA	galactoside O-acetyltransferase [EC:
+K00634	ptb	phosphate butyryltransferase [EC:
+K00635	E2.3.1.20	diacylglycerol O-acyltransferase [EC:
+K00637	SOAT1 	sterol O-acyltransferase [EC:
+K00638	catB	chloramphenicol O-acetyltransferase type B [EC:
+K00639	GCAT	glycine C-acetyltransferase [EC:
+K00640	cysE	serine O-acetyltransferase [EC:
+K00641	metX	homoserine O-acetyltransferase [EC:
+K00643	ALAS1 	5-aminolevulinate synthase [EC:
+K00645	MCAT	[acyl-carrier-protein] S-malonyltransferase [EC:
+K00646	pksF	malonyl-ACP decarboxylase
+K00647	fabB	3-oxoacyl-[acyl-carrier-protein] synthase I [EC:
+K00648	fabH	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:
+K00649	GNPAT	glyceronephosphate O-acyltransferase [EC:
+K00650	LCAT	lecithin-cholesterol acyltransferase [EC:
+K00651	metA	homoserine O-succinyltransferase [EC:
+K00652	bioF	8-amino-7-oxononanoate synthase [EC:
+K00653	CDYL2 	chromodomain protein Y [EC:
+K00654	SPTLC1 	serine palmitoyltransferase [EC:
+K00655	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:
+K00656	E2.3.1.54, pflD	formate C-acetyltransferase [EC:
+K00657	SAT2 	diamine N-acetyltransferase [EC:
+K00658	DLST	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:
+K00659	BAAT	bile acid-CoA:amino acid N-acyltransferase [EC:
+K00660	CHS	chalcone synthase [EC:
+K00661	maa	maltose O-acetyltransferase [EC:
+K00662	aacC	aminoglycoside 3-N-acetyltransferase [EC:
+K00663	aacA	aminoglycoside 6'-N-acetyltransferase [EC:
+K00664	E2.3.1.84	alcohol O-acetyltransferase [EC:
+K00665	FASN	fatty acid synthase, animal type [EC:
+K00666	ACSF2	fatty-acyl-CoA synthase [EC:6.2.1.-]
+K00667	FAS2	fatty acid synthase subunit alpha, fungi type [EC:
+K00668	FAS1	fatty acid synthase subunit beta, fungi type [EC:
+K00669	AANAT	arylalkylamine N-acetyltransferase [EC:
+K00670	NAA30	N-alpha-acetyltransferase 30 [EC:
+K00671	NMT1 	glycylpeptide N-tetradecanoyltransferase [EC:
+K00672	ftr	formylmethanofuran--tetrahydromethanopterin N-formyltransferase [EC:
+K00673	astA	arginine N-succinyltransferase [EC:
+K00674	dapD	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase [EC:
+K00675	nhoA	N-hydroxyarylamine O-acetyltransferase [EC:
+K00677	lpxA	UDP-N-acetylglucosamine acyltransferase [EC:
+K00678	LRAT	phosphatidylcholine-retinol O-acyltransferase [EC:
+K00679	E2.3.1.158	phospholipid:diacylglycerol acyltransferase [EC:
+K00681	GGT6 	gamma-glutamyltranspeptidase / glutathione hydrolase [EC:
+K00682	GGCT	gamma-glutamylcyclotransferase [EC:
+K00683	QPCT 	glutaminyl-peptide cyclotransferase [EC:
+K00684	aat	leucyl/phenylalanyl-tRNA---protein transferase [EC:
+K00685	ATE1	arginyl-tRNA---protein transferase [EC:
+K00686	tgl	protein-glutamine gamma-glutamyltransferase [EC:
+K00687	pbp2B, penA	penicillin-binding protein 2B
+K00688	PYGB 	glycogen phosphorylase [EC:
+K00689	E2.4.1.5	dextransucrase [EC:
+K00690	E2.4.1.7	sucrose phosphorylase [EC:
+K00691	mapA	maltose phosphorylase [EC:
+K00692	sacB	levansucrase [EC:
+K00693	GYS1 	glycogen synthase [EC:
+K00694	bcsA	cellulose synthase (UDP-forming) [EC:
+K00695	E2.4.1.13	sucrose synthase [EC:
+K00696	E2.4.1.14	sucrose-phosphate synthase [EC:
+K00697	otsA	trehalose 6-phosphate synthase [EC:
+K00698	CHS1	chitin synthase [EC:
+K00699	UGT2B11 	glucuronosyltransferase [EC:
+K00700	GBE1	1,4-alpha-glucan branching enzyme [EC:
+K00701	cgt	cyclomaltodextrin glucanotransferase [EC:
+K00702	E2.4.1.20	cellobiose phosphorylase [EC:
+K00703	glgA	starch synthase [EC:
+K00704	LALBA	alpha-lactalbumin [EC:
+K00705	malQ	4-alpha-glucanotransferase [EC:
+K00706	E2.4.1.34	1,3-beta-glucan synthase [EC:
+K00709	ABO	histo-blood group ABO system transferase [EC:
+K00710	POC1B-GALNT4 	polypeptide N-acetylgalactosaminyltransferase [EC:
+K00712	tagE	poly(glycerol-phosphate) alpha-glucosyltransferase [EC:
+K00713	waaD	UDP-glucose:(glucosyl)LPS alpha-1,2-glucosyltransferase [EC:2.4.1.-]
+K00714	WNT8A 	wingless-type MMTV integration site family, member 8
+K00715	B3GALT4	ganglioside galactosyltransferase [EC:
+K00716	FUT3	galactoside 3(4)-fucosyltransferase 3 [EC:
+K00717	FUT8	glycoprotein 6-alpha-L-fucosyltransferase [EC:
+K00718	FUT1 	galactoside 2-L-fucosyltransferase 1/2 [EC:
+K00719	B3GALNT1	galactosylgalactosylglucosylceramide beta-D-acetylgalactosaminyltransferase [EC:
+K00720	UGCG	ceramide glucosyltransferase [EC:
+K00721	DPM1	dolichol-phosphate mannosyltransferase [EC:
+K00722	GBGT1	globoside alpha-N-acetylgalactosaminyltransferase [EC:
+K00725	B4GALNT1	(N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase [EC:
+K00726	MGAT1	alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:
+K00727	GCNT1	beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase [EC:
+K00728	POMT1 	dolichyl-phosphate-mannose-protein mannosyltransferase [EC:
+K00729	ALG5	dolichyl-phosphate beta-glucosyltransferase [EC:
+K00730	OST4	oligosaccharyl transferase complex subunit OST4
+K00731	C1GALT1	glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase [EC:
+K00733	B4GALT7	xylosylprotein 4-beta-galactosyltransferase [EC:
+K00734	B3GALT6	galactosylxylosylprotein 3-beta-galactosyltransferase [EC:
+K00735	B3GAT1	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 [EC:
+K00736	MGAT2	alpha-1,6-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:
+K00737	MGAT3	beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [EC:
+K00738	MGAT4B 	alpha-1,3-mannosylglycoprotein beta-1,4-N-acetylglucosaminyltransferase A/B [EC:
+K00739	B3GNT6	acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase [EC:
+K00741	B3GNT2	N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase [EC:
+K00742	GCNT2	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase [EC:
+K00743	GGTA1	N-acetyllactosaminide 3-alpha-galactosyltransferase [EC:
+K00744	MGAT5	alpha-1,3(6)-mannosylglycoprotein beta-1,6-N-acetyl-glucosaminyltransferase [EC:
+K00745	E2.4.1.166	raffinose-raffinose alpha-galactotransferase [EC:
+K00746	CSGALNACT2 	chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:
+K00747	CHPF	chondroitin polymerizing factor [EC:
+K00748	lpxB	lipid-A-disaccharide synthase [EC:
+K00749	E2.4.1.183	alpha-1,3-glucan synthase [EC:
+K00750	GYG1 	glycogenin [EC:
+K00752	HAS1 	hyaluronan synthase [EC:
+K00753	E2.4.1.214	glycoprotein 3-alpha-L-fucosyltransferase [EC:
+K00756	pdp	pyrimidine-nucleoside phosphorylase [EC:
+K00757	UPP2 	uridine phosphorylase [EC:
+K00758	TYMP	thymidine phosphorylase [EC:

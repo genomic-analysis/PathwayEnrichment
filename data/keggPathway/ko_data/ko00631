@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE pathway SYSTEM "http://www.genome.jp/kegg/xml/KGML_v0.7.1_.dtd">
+<!-- Creation date: Aug 30, 2010 13:39:20 +0900 (GMT+09:00) -->
+<pathway name="path:ko00631" org="ko" number="00631"
+         title="1,2-Dichloroethane degradation"
+         image="http://www.genome.jp/kegg/pathway/ko/ko00631.png"
+         link="http://www.genome.jp/kegg-bin/show_pathway?ko00631">
+    <entry id="5" name="ko:K01560" type="ortholog" reaction="rn:R05287"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K01560">
+        <graphics name="K01560" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="201" y="330" width="46" height="17"/>
+    </entry>
+    <entry id="6" name="path:ko00630" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ko00630">
+        <graphics name="Glyoxylate and dicarboxylate metabolism" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="177" y="427" width="154" height="34"/>
+    </entry>
+    <entry id="7" name="ko:K01561" type="ortholog" reaction="rn:R05287"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K01561">
+        <graphics name="K01561" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="151" y="330" width="46" height="17"/>
+    </entry>
+    <entry id="8" name="ko:K14028 ko:K14029" type="ortholog" reaction="rn:R09128"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K14028+K14029">
+        <graphics name="K14028..." fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="151" y="200" width="46" height="17"/>
+    </entry>
+    <entry id="9" name="ko:K01563" type="ortholog" reaction="rn:R05284"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K01563">
+        <graphics name="K01563" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="177" y="131" width="46" height="17"/>
+    </entry>
+    <entry id="10" name="path:ko00631" type="map"
+        link="http://www.kegg.jp/dbget-bin/www_bget?ko00631">
+        <graphics name="TITLE:1,2-Dichloroethane degradation" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="roundrectangle" x="193" y="58" width="278" height="25"/>
+    </entry>
+    <entry id="11" name="ko:K00128" type="ortholog" reaction="rn:R05286"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K00128">
+        <graphics name="K00128" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="177" y="261" width="46" height="17"/>
+    </entry>
+    <entry id="12" name="cpd:C06752" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C06752">
+        <graphics name="C06752" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="176" y="105" width="8" height="8"/>
+    </entry>
+    <entry id="13" name="cpd:C06753" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C06753">
+        <graphics name="C06753" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="176" y="170" width="8" height="8"/>
+    </entry>
+    <entry id="14" name="cpd:C06754" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C06754">
+        <graphics name="C06754" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="176" y="235" width="8" height="8"/>
+    </entry>
+    <entry id="15" name="cpd:C00160" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C00160">
+        <graphics name="C00160" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="176" y="365" width="8" height="8"/>
+    </entry>
+    <entry id="16" name="cpd:C06755" type="compound"
+        link="http://www.kegg.jp/dbget-bin/www_bget?C06755">
+        <graphics name="C06755" fgcolor="#000000" bgcolor="#FFFFFF"
+             type="circle" x="176" y="300" width="8" height="8"/>
+    </entry>
+    <entry id="17" name="ko:K00114" type="ortholog" reaction="rn:R05285"
+        link="http://www.kegg.jp/dbget-bin/www_bget?K00114">
+        <graphics name="K00114" fgcolor="#000000" bgcolor="#BFBFFF"
+             type="rectangle" x="201" y="200" width="46" height="17"/>
+    </entry>
+    <relation entry1="8" entry2="9" type="ECrel">
+        <subtype name="compound" value="13"/>
+    </relation>
+    <relation entry1="8" entry2="11" type="ECrel">
+        <subtype name="compound" value="14"/>
+    </relation>
+    <relation entry1="7" entry2="11" type="ECrel">
+        <subtype name="compound" value="16"/>
+    </relation>
+    <relation entry1="11" entry2="5" type="ECrel">
+        <subtype name="compound" value="16"/>
+    </relation>
+    <relation entry1="7" entry2="6" type="maplink">
+        <subtype name="compound" value="15"/>
+    </relation>
+    <relation entry1="5" entry2="6" type="maplink">
+        <subtype name="compound" value="15"/>
+    </relation>
+    <relation entry1="17" entry2="9" type="ECrel">
+        <subtype name="compound" value="13"/>
+    </relation>
+    <relation entry1="17" entry2="11" type="ECrel">
+        <subtype name="compound" value="14"/>
+    </relation>
+    <reaction id="5" name="rn:R05287" type="irreversible">
+        <substrate id="16" name="cpd:C06755"/>
+        <product id="15" name="cpd:C00160"/>
+    </reaction>
+    <reaction id="7" name="rn:R05287" type="irreversible">
+        <substrate id="16" name="cpd:C06755"/>
+        <product id="15" name="cpd:C00160"/>
+    </reaction>
+    <reaction id="8" name="rn:R09128" type="irreversible">
+        <substrate id="13" name="cpd:C06753"/>
+        <product id="14" name="cpd:C06754"/>
+    </reaction>
+    <reaction id="9" name="rn:R05284" type="irreversible">
+        <substrate id="12" name="cpd:C06752"/>
+        <product id="13" name="cpd:C06753"/>
+    </reaction>
+    <reaction id="11" name="rn:R05286" type="irreversible">
+        <substrate id="14" name="cpd:C06754"/>
+        <product id="16" name="cpd:C06755"/>
+    </reaction>
+    <reaction id="17" name="rn:R05285" type="irreversible">
+        <substrate id="13" name="cpd:C06753"/>
+        <product id="14" name="cpd:C06754"/>
+    </reaction>
+</pathway>
